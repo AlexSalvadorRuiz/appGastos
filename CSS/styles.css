@@ -1,0 +1,18 @@
+h1{
+    text-align: center; /* text-align sirve para centrar */
+}
+form{
+    text-align: center;
+}
+
+#botonDeEnvio{
+    font-size: 23px; /* font-size para agrandar o achicar texto */
+}
+td, th{
+    border: solid red 1px;
+    padding: 10px;
+    text-align: center;
+}
+.tableFormat table{
+    margin: 10px auto;
+}
